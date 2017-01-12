@@ -6,7 +6,7 @@ Automatisierung des Maische Kochens mit minimalem Aufwand und lediglich eines ES
 
 - Temperatur PID Regelung auf zehntel Grad genau
 - Rührwerk Drehzahlregelung
-- Rührwerk Interwall Steuerung
+- Rührwerk Intervall Steuerung
 - Graphen für Temperatur Verlauf
 - Rast Zeit Erkennung
 - Verwendet Wifi Zugang oder stellt eigenen AP bereit
